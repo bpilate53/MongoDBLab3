@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Paradiso",
+        "author": "Dante Alighieri",
+        "copies": 1,
+        "pages": 500,
+        "rating": 9,
+        "genres": [
+            "fantasy",
+            "dystopian"
+        ]
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "copies": 10,
+        "pages": 300,
+        "rating": 8,
+        "genres": [
+            "fantasy",
+            "dystopian"
+        ]
+    },
+    {
+        "title": "Iliad",
+        "author": "Homer",
+        "copies": 10,
+        "pages": 1000,
+        "rating": 4,
+        "genres": [
+            "fantasy",
+            "dystopian"
+        ]
+    },
+    {
+        "title": "Eclogues",
+        "author": "Dante",
+        "copies": 2,
+        "pages": 200,
+        "rating": 3,
+        "genres": [
+            "fantasy",
+            "dystopian"
+        ]
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft Shelley",
+        "copies": 2,
+        "pages": 280,
+        "rating": 10,
+        "genres": [
+            "fiction",
+            "NA"
+        ]
+    },
+    {
+        "title": "Wonder",
+        "author": "R. J. Palacio",
+        "copies": 2,
+        "pages": 368,
+        "rating": 10,
+        "genres": [
+            "fiction",
+            "NA"
+        ]
+    },
+    {
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "copies": 2,
+        "pages": 100,
+        "rating": 5,
+        "genres": [
+            "fiction",
+            "NA"
+        ]
+    }
+]
+  
